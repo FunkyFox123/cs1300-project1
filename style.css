@@ -1,0 +1,19 @@
+html {
+    background-color: #f3bdff;
+}
+
+.section {
+    padding-top: 0.25rem;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    background-color: #F5E1FD;
+    border-radius: 5%;
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+#nav-menu {
+    justify-content: space-evenly;
+    display: flex;
+}
